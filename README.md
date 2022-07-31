@@ -75,7 +75,7 @@ The next step is to add the key to your GitHub account. Type the following comma
 
 Now you can add this key to your github.
 
-- Go to GitHub > Settings > SHS and GPG keys > New SSH Key > Paste > add a title > click 'Add SSH key'
+- Go to GitHub > Settings > SSH and GPG keys > New SSH Key > Paste > add a title > click 'Add SSH key'
 
 Now you will have to add your private ssh key to the ssh-agent.
 In order to do this you will have to start the ssh-agent, do this by running the command below:
