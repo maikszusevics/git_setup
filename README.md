@@ -60,7 +60,7 @@ Using an SSH key means no repetitive authentication is required with email and p
 
 - Open gitbash again and type `` cd `` to return to base directory
 - Now run ``mkdir .ssh``
-- Run ``$ ssh-keygen -t ed25519 -C "your_email@example.com"``
+- Run ``$ ssh-keygen -t ed25519 -f "desired_key_ID" -C "your_email@example.com"``
 
 this will prompt you to select directory, using the default .ssh you just created is reccomended.
 It will also ask for a password, this is optional and will defeat the convenience gained by using SSH keys. Skip this by leaving the space blank and pressing enter and enter again for confirm password.
