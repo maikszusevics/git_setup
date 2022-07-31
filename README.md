@@ -40,7 +40,9 @@ In order to do this successfully, you will have to add your name and email in Gi
 git config --global user.name "Your name here"
 git config --global user.email "your_email@example.com"
 ```
-- select or create a directory for your new repository ``mkdir demorepo``
+- create a directory for your new repository and enter it
+```mkdir demorepo
+cd demorepo``` 
 
 *NOTE if you initialise the repository in the default directory you will add your whole user folder and the push will most likely fail*
 - now you can follow the commands from GitHub, for a HTTP setup these are:
