@@ -113,3 +113,7 @@ git remote add origin https://github.com/maikszusevics/your_repo_name.git
 git push --all
 ```
 
+
+
+![image](https://user-images.githubusercontent.com/110176257/182569065-10cf7751-a81f-4b81-84eb-6c954552b262.png)
+
